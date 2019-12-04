@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DontWork</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="enter">Ввод</string>
+    <string name="people">Участник</string>
+    <string name="finish">Финиш</string>
+    <string name="list">Список</string>
+    <string name="childrenList">Список участников</string>
+</resources>
